@@ -1,0 +1,42 @@
+{
+  "name": "arslan_butt_cv",
+  "private": true,
+  "type": "module",
+  "description": "My CV using Nuxt",
+  "author": "Arslan",
+  "funding": "https://github.com/sponsors/arslan-butt",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arslan-butt/my-cv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arslan-butt/my-cv/issues"
+  },
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --tunnel",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "start": "node .output/server/index.mjs",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "dependencies": {
+    "@mockline/utils": "^1.5.2",
+    "@nuxt/content": "^2.13.4",
+    "@nuxt/image": "^1.9.0",
+    "@nuxt/scripts": "^0.10.5",
+    "@nuxthq/studio": "^2.2.1",
+    "nuxt": "^3.15.4",
+    "vue": "latest",
+    "vue-router": "latest"
+  },
+  "devDependencies": {
+    "@hrcd/eslint-config": "edge",
+    "automd": "^0.3.12",
+    "changelogen": "^0.5.7",
+    "eslint": "^9.21.0",
+    "typescript": "^5.7.3"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Special Car",
+  "image": "/projects/special-car.webp",
+  "position": "Full-Stack Developer",
+  "description": "A ride-hailing platform allowing users to find and book transport services via web and mobile apps, built with Laravel and MySQL.",
+  "link": "#",
+  "date": "2016"
+}
