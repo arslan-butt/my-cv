@@ -6,7 +6,7 @@ Built with Nuxt and TailwindCSS v4.
 
 ## Live Website
 
-You can see it live at [cv.arslan-butt.com](https://cv.arslan-butt.com/).
+You can see it live at [arslan-cv.vercel.app](https://arslan-cv.vercel.app/).
 
 ## Features
 
