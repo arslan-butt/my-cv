@@ -14,8 +14,6 @@ You can see it live at [cv.arslan-butt.com](https://cv.arslan-butt.com/).
 - Easy to customize
 - Print-friendly layout
 
-<img src="public/nuxt-studio.png" width="800" alt="Nuxt Studio"/>
-
 ## Quick Setup
 
 1. Clone this repository if you have access or download it from the store
