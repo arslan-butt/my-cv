@@ -158,8 +158,8 @@ export default defineContentConfig({
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to:
 
-- Open an [issue](https://github.com/arslan-butt/nuxt-cv/issues).
-- Submit a [pull request](https://github.com/arslan-butt/nuxt-cv/pulls).
+- Open an [issue](https://github.com/arslan-butt/my-cv/issues).
+- Submit a [pull request](https://github.com/arslan-butt/my-cv/pulls).
 
 Please ensure your contributions align with the project's goals and follow the existing code style.
 
