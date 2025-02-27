@@ -1,8 +1,21 @@
 <script setup lang="ts">
 const { profile } = useAppConfig();
+const { gtag } = useGtag();
 
 function print() {
   window.print();
+}
+
+function trackButtonClick() {
+  gtag("event", "button_click", {
+    event_category: "engagement",
+    event_label: "Print Button",
+  });
+}
+
+function handlePrintAndTrack() {
+  print();
+  trackButtonClick();
 }
 </script>
 
@@ -36,7 +49,7 @@ function print() {
     <div class="mt-2 print:hidden">
       <button
         class="bg-neutral-900 cursor-pointer text-white rounded-md px-4 py-1 text-sm hover:bg-neutral-700 flex items-center gap-1"
-        @click="print()"
+        @click="handlePrintAndTrack"
       >
         Print
         <UIcon name="lucide:printer" class="size-5" />
