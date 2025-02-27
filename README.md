@@ -8,7 +8,7 @@ Built with [**Nuxt 3**](https://nuxt.com), [**Nuxt UI 3**](https://ui3.nuxt.dev/
 
 ## 🌍 Live Preview
 
-Check out the live demo of this CV template: **[Arslan Butt CV Demo](#)** (https://arslan-cv.vercel.app/).
+Check out the live demo of this CV template: **[Arslan Butt CV Demo](#)** (https://arslanbutt-cv.vercel.app).
 
 ---
 
