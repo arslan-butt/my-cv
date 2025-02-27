@@ -1,5 +1,5 @@
 ---
-title: 'Arslan Butt'
+title: "Arslan Butt"
 description: Fullstack developer based in Paris. Working mainly with Php, Laravel, Nuxt.js, Vue.js and React.js'
 ---
 
