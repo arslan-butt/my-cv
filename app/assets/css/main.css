@@ -1,0 +1,29 @@
+@import 'tailwindcss';
+@import '@nuxt/ui';
+
+@theme {
+  --font-sans: 'Public Sans', sans-serif;
+}
+
+.link {
+  @apply text-neutral-500 hover:text-neutral-700 dark:text-neutral-400 dark:hover:text-neutral-200 transition-colors;
+}
+
+.link_space {
+  @apply flex items-center gap-1;
+}
+
+.link-text {
+  display: none;
+}
+
+@media print {
+  .link-text {
+    display: inline;
+    @apply text-sm;
+  }
+
+  .print\:flex-col {
+    flex-direction: column;
+  }
+}

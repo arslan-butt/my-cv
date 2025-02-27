@@ -1,0 +1,8 @@
+{
+  "name": "Beesy.me",
+  "image": "/projects/beesy.webp",
+  "position": "Full-Stack Developer",
+  "description": "Beesy.me includes drag-and-drop multi-dashboards, session management, and migration from a legacy system using Laravel, Vue.js, Vuetify, Yii, and Knockout.js.",
+  "link": "https://beesy.me",
+  "date": "2020-2024"
+}

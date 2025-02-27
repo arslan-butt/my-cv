@@ -1,0 +1,8 @@
+{
+  "name": "JetEval",
+  "image": "/projects/jeteval.webp",
+  "position": "Full-Stack Developer",
+  "description": "A SaaS application built from scratch using Vue.js, Laravel, Element UI, and MySQL.",
+  "link": "#",
+  "date": "2020"
+}

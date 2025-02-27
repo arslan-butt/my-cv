@@ -1,0 +1,8 @@
+{
+  "name": "E-meet Point",
+  "image": "/projects/e-meet-point.webp",
+  "position": "Full-Stack Developer",
+  "description": "A social platform similar to Meetup, where users can create and join groups, organize events, and invite others. Developed with PHP, Yii Framework, and MySQL.",
+  "link": "#",
+  "date": "2014"
+}

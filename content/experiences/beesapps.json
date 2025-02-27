@@ -1,0 +1,8 @@
+{
+  "name": "BeesApps",
+  "position": "Full-Stack Developer",
+  "location": "Paris, France",
+  "date": "Dec 2020 - Present",
+  "description": "Led full-stack development and migration of legacy systems. Developed Beesy.me using Laravel, Vue, and Vuetify. Managed database design and CI/CD pipelines. Implemented session sharing, dynamic dashboards, and improved system scalability. Contributed to software reliability through unit testing with PHPUnit and developed RESTful APIs for seamless front-end and back-end communication.",
+  "link": "https://www.beesapps.com"
+}
