@@ -1,7 +1,17 @@
 {
-  "name": "arslan-butt-cv",
+  "name": "arslan_butt_cv",
   "private": true,
   "type": "module",
+  "description": "My CV using Nuxt",
+  "author": "Arslan",
+  "funding": "https://github.com/sponsors/arslan-butt",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arslan-butt/my-cv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arslan-butt/my-cv/issues"
+  },
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
