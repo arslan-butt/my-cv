@@ -21,8 +21,8 @@ function handlePrintAndTrack() {
 
 <template>
   <div>
-    <div class="flex flex-col-reverse sm:flex-row justify-between gap-4">
-      <div class="flex flex-col">
+    <div class="flex flex-col sm:flex-row sm:justify-between gap-4">
+      <div class="flex flex-col order-2 sm:order-1">
         <h1 class="uppercase text-2xl font-bold mb-2">
           {{ profile.name }}
         </h1>
@@ -39,14 +39,25 @@ function handlePrintAndTrack() {
         <Socials />
       </div>
 
-      <NuxtImg
-        v-if="profile.picture"
-        :src="profile.picture"
-        :alt="profile.name"
-        class="rounded-md w-40 object-cover sm:size-40"
-      />
+      <div class="flex justify-center sm:justify-end order-1 sm:order-2">
+        <NuxtImg
+          v-if="profile.picture"
+          :src="profile.picture"
+          :alt="profile.name"
+          class="rounded-md object-cover"
+          width="160"
+          height="160"
+          format="webp"
+          quality="80"
+          preload
+          priority
+          fetchpriority="high"
+          sizes="160px"
+        />
+      </div>
     </div>
-    <div class="mt-2 print:hidden">
+
+    <div class="mt-4 print:hidden">
       <button
         class="bg-neutral-900 cursor-pointer text-white rounded-md px-4 py-1 text-sm hover:bg-neutral-700 flex items-center gap-1"
         @click="handlePrintAndTrack"
