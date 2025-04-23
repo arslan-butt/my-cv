@@ -1,0 +1,8 @@
+{
+  "name": "Timestamp Tracker",
+  "image": "",
+  "position": "Full-Stack Developer",
+  "description": "A simple and well-structured demo project for a time tracking application, designed to manage projects and tasks with accurate time measurement. Built using Vue.js 3, Nuxt 3, Nuxt UI 3, Tailwind CSS, and Pinia.",
+  "link": "https://timestamp-tracker.vercel.app/",
+  "date": "2025"
+}

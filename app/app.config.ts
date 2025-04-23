@@ -8,7 +8,7 @@ export default defineAppConfig({
     email: "engr.arslanbutt@gmail.com",
     phone: "(+33) 7 53 09 48 62",
     website: "arslanbutt-cv.vercel.app/",
-    picture: "/arslan.png",
+    picture: "/arslan.webp",
   },
   seo: {
     title: "Arslan Butt | Fullstack developer",

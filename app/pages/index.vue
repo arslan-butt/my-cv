@@ -64,9 +64,9 @@ const { data: home } = await useAsyncData(() =>
     class="px-4 sm:px-0 py-10 sm:py-16 max-w-2xl mx-auto flex flex-col gap-10"
   >
     <Hero />
-    <ClientOnly fallback-tag="div" class="loading-placeholder">
-      <ContentRenderer v-if="home" :value="home" />
-    </ClientOnly>
+    <!-- <ClientOnly fallback-tag="div" class="loading-placeholder"> -->
+    <ContentRenderer v-if="home" :value="home" />
+    <!-- </ClientOnly> -->
     <Experiences />
     <Education />
     <Projects />
