@@ -1,0 +1,8 @@
+{
+  "name": "DQE Software",
+  "position": "Full-stack Developer",
+  "location": "Paris, France",
+  "date": "Jan 2025 - Present",
+  "description": "As a Full-Stack Developer, I work on software and web development using MVC and OOP principles. I contributed to projects including Authent (common login system for multiple products with secure API communication via APC Connector) and FMI (Forms Management System with dynamic forms, task assignment, and multilingual support). I use PHP frameworks (Laravel, Symfony), Vue.js, MySQL, REST APIs, and implement CI/CD pipelines. I follow Scrum methodologies and ensure scalable, maintainable, and secure applications.",
+  "link": "https://dqe.tech"
+}

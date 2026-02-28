@@ -1,0 +1,8 @@
+{
+  "name": "Salatty.com",
+  "image": "/projects/salatty.webp",
+  "position": "Full-Stack Developer",
+  "description": "An online grocery store developed with OpenCart, integrating AWS, REST APIs, and payment gateways like PayPal.",
+  "link": "#",
+  "date": "2016"
+}

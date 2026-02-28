@@ -1,0 +1,8 @@
+{
+  "name": "FMI",
+  "image": "/projects/fmi.webp",
+  "position": "Full-Stack Developer",
+  "description": "FMI is a Forms Management System where admins can log in, create and manage forms with different field types, default values, and languages. It also allows assigning tasks or todos to specific users, ensuring efficient workflow and task tracking within the application.",
+  "link": "#",
+  "date": "2025-2026"
+}

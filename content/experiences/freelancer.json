@@ -1,0 +1,8 @@
+{
+  "name": "Freelancer",
+  "position": "Senior Software Engineer",
+  "location": "Remote",
+  "date": "Aug 2018 - Jan 2020",
+  "description": "Developed and maintained eCommerce and corporate platforms using PHP, Laravel, Yii 2, and Vue.js. Integrated Amazon Web Services (AWS), including S3 for cloud storage and PayPal for online payment solutions. Utilized Bootstrap for responsive front-end development, enhancing UX across platforms. Managed databases using MySQL, optimizing performance and scalability. Worked with OpenCart and WordPress for content management systems, and occasionally developed ERP modules using Odoo (Python-based). Implemented CI/CD pipelines using GitHub/GitLab.",
+  "link": "#"
+}

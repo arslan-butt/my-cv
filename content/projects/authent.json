@@ -1,0 +1,8 @@
+{
+  "name": "Authent",
+  "image": "/projects/authent.webp",
+  "position": "Full-Stack Developer",
+  "description": "Authent is a common login system for multiple products, structured in 3 parts: main backend for user and access management, a single login platform for all products, and APC Connector for secure communication between products and the main backend/admin system, enforcing security layers like valid headers, auth tokens, and data access control. After login, users are redirected to the product page and can access data securely via APC Connector.",
+  "link": "#",
+  "date": "2025-2026"
+}
